@@ -1,5 +1,25 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## 🤖 Using Claude AI in VS Code
+
+This project is set up to work seamlessly with Claude AI for development assistance. To get started with Claude in VS Code:
+
+### Quick Setup
+
+Run the setup script:
+```bash
+./setup-claude.sh
+```
+
+Or see the [detailed Claude setup guide](./CLAUDE_SETUP.md) for manual installation and configuration options.
+
+### Recommended Extensions
+
+When you open this project in VS Code, you'll be prompted to install recommended extensions including:
+- **Cline** - Claude AI integration for VS Code
+- **Continue.dev** - AI code assistant
+- ESLint, Prettier, and Tailwind CSS IntelliSense
+
 ## Getting Started
 
 First, run the development server:

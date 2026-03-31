@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "saoudrizwan.claude-dev",
+    "continue.continue",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "convex.convex-snippets",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
